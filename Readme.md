@@ -13,3 +13,5 @@
 -e quantos commit eles fizeram e quais eles foram
 #git shortlog -sn
 -Mostra a quantidade de commits e o nome
+#git diff
+-Mostra a ultima modificação
