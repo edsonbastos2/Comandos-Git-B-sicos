@@ -15,3 +15,8 @@
 -Mostra a quantidade de commits e o nome
 #git diff
 -Mostra a ultima modificação
+# git remote add origin "link do diretorio"
+# git remove -v
+-verificar detalhes
+# git push -u origin master
+# Adicionando um novo comentario
